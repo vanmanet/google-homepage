@@ -1,0 +1,27 @@
+p {
+    color:red;
+}
+
+#topbar {
+    top: 0;
+    float: right;
+    width: 200px;
+    margin-bottom: 200px;
+}
+
+#middle {
+    margin-top: 200px;
+    clear: both;
+    text-align: center;
+}
+
+#footer {
+    margin-top: 200px;
+    position: absolute;
+    bottom: 0;
+}
+
+#navbar {
+    position:relative;
+    bottom: 0;
+}
